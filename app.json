@@ -1,0 +1,12 @@
+{
+  "name": "tracking-app",
+  "displayName": "tracking-app",
+  "expo": {
+    "name": "tracking-app",
+    "slug": "tracking-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
